@@ -1,4 +1,4 @@
-[![MasterHead](https://images8.design-editor.com/95/9570220/3958%2F21054EB9-6435-DBB1-45C4-B98BD93036EE.gif_650)]
+![MasterHead](https://images8.design-editor.com/95/9570220/3958%2F21054EB9-6435-DBB1-45C4-B98BD93036EE.gif_650)
 <h1 align="center">Hi 👋, I'm Bijay Chetry</h1>
 <h3 align="center">A passionate business analyst and an avid data enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif">
